@@ -1,0 +1,814 @@
+[
+    {
+        "customer_name": "Burak KADIOĞLU",
+        "stay_date": "bir ay önce",
+        "review_text": "Tesis Antalya da muhtemelen yeni açılmış. 56 yaşındayım Türkiyede ve Dünyada bir çok yer gezdim ilk kez karşılaştığım iki konuyu belirtmek isterim. Birincisi kaldığımız oda da pencere yoktu,ayrıca kahvaltı önemli bir unsurdur, …",
+        "rating": 2.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Emre Ugur",
+        "stay_date": "bir ay önce",
+        "review_text": "Bonnie City Hotel'de konaklamak harika bir deneyimdi. Otelin merkezi konumu sayesinde her yere kolayca ulaşabildik. Odalar temiz, rahat ve modern döşenmişti. Personel çok samimi ve yardımseverdi, bize her konuda yardımcı oldular. Sabahları …",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Eray Eray",
+        "stay_date": "bir ay önce",
+        "review_text": "Antalya’ya tek gece için gelmiştik.\nKonum olarak sokak arasında kalmasına rağmen her yer yürüme mesafesinde.\nOdalar gayet geniş ve tertemizdi. …",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Deniz çobanoğlu",
+        "stay_date": "bir ay önce",
+        "review_text": "Antalya’ya ikinci gidişimde şehir merkezinde bir otel tercih ettik ve Bonnie City Hotel’de konakladık. Otelin konumu gerçekten harikaydı; tarihi yerlere ve çarşıya çok yakındı. Gün boyu gezip yorulduktan sonra “Hadi eve dönelim” derdik …",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Batuhan BFG",
+        "stay_date": "bir ay önce",
+        "review_text": "Muğla’dan hafta sonu tatili için Bonnie City Hotel’e geldik. Odamız tertemizdi ve yataklar oldukça rahattı. Kahvaltıda sunulan çeşitler bizi fazlasıyla memnun etti. Konum olarak her yere yakın olması ise büyük bir avantajdı. Aracımız için …",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Mehmet Ali Yıldız",
+        "stay_date": "bir ay önce",
+        "review_text": "Bu hafta Antalya tatili için şehir merkezinde bir otel tercih edeyim dedim ve Bonny otele geldim.Bonny Hotel, Antalya’nın merkezinde, konforlu ve samimi bir konaklama deneyimi sunan harika bir otel. Temiz odaları, güler yüzlü personeli ve …",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Esila Bilen",
+        "stay_date": "bir hafta önce",
+        "review_text": "3 kişilik odada kaldık. Gayet büyüktü odalar. Konumu merkeze yürüyerek 7-8 dk. Ocak ayının başında geldik ve yorgan yoktu ekstra pike getirdiler ancak biraz üşüdük. İnternet hiç çekmiyordu. Konumu biraz sanayinin ortasında. Odada TV vardı fakat internete bağlanamadığı için onu da kullanamadık.",
+        "rating": 3.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Taha Kaçdı",
+        "stay_date": "bir ay önce",
+        "review_text": "Bonnie City Hotel’in deluxe odasında konakladım ve her şey mükemmeldi. Otele giriş yaptığımda check-in işlemi çok hızlı ve sorunsuzdu. Oda tertemizdi ve modern tasarımıyla çok konforluydu. Çıkış yaparken de resepsiyondaki Ahmet’in ilgisi sayesinde hiçbir problem yaşamadım.\"",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Ali Sarak",
+        "stay_date": "bir ay önce",
+        "review_text": "Bonnie City Hotel'in transfer hizmetinden faydalandım ve gerçekten memnun kaldım. Havaalanına indikten sonra, otelin transfer aracının beni karşıladığını hemen gördüm. Aracın konforu oldukça iyiydi, genişti ve yolculuk sırasında rahat …",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Habipcan Koz",
+        "stay_date": "bir ay önce",
+        "review_text": "Otelde konaklarken hiç sıkıntı yaşamadım. Çalışanlar oldukça yardımsever ve profesyoneldi. Kahvaltı seçenekleri çok geniş olmasa da yeterliydi ve taze ürünler kullanılmıştı. Odada rahatlık ön planda, özellikle yatak çok rahattı. Otelin merkezi konumu sayesinde şehri gezmek çok kolay oldu.",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Umut Kılıç",
+        "stay_date": "bir ay önce",
+        "review_text": "Bonnie Hotel’de geçirdiğimiz tatil gerçekten harikaydı. Otele adım attığımız andan itibaren personelin sıcak karşılaması bizi çok etkiledi. Odalar oldukça ferah ve temizdi, manzarası ise nefes kesiciydi. …",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Ayça_22",
+        "stay_date": "bir ay önce",
+        "review_text": "Konaklamam sırasında otelin kapalı otoparkı büyük rahatlık sağladı. Araçla seyahat eden biri olarak bu özellik çok önemliydi. Ayrıca otelin genel atmosferi de çok rahatlatıcı. Personel her konuda yardımcı oldu, özellikle resepsiyon ekibi çok ilgilendi. Bonnie City Hotel gerçekten fiyat-performans açısından harika bir seçim.\"",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Tekincan Coşkun",
+        "stay_date": "bir ay önce",
+        "review_text": "İş seyahatim için Bonnie City Hotel’i tercih ettim ve hiç pişman olmadım. Odanın rahatlığı ve temizliği çok iyi, ayrıca check-in işlemi de son derece hızlıydı. Personel her konuda yardımcı oldu, Resul restaurantta çok ilgiliydi. Kahvaltı çeşitliliği yeterliydi, özellikle taze peynirler favorim oldu.\"",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "YUSUF",
+        "stay_date": "bir ay önce",
+        "review_text": "Bonnie City Hotel’de geçirdiğimiz birkaç gün çok keyifli geçti. Oda temiz ve çok konforluydu. Otelin lobi alanı da oldukça rahatlatıcı, burada vakit geçirmek çok hoştu. Oteldeki sigara içilebilen oturma alanı da çok iyi düşünülmüş. Otel personeli çok güler yüzlü ve yardımcıydı.\"",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Mehmet Ali Ötekan",
+        "stay_date": "bir ay önce",
+        "review_text": "Antalya'da is seyahatim sirasinda Bonnie City Hotel'de kaldim.\nCheck-in islemi Babek sayesinde çok hizli gergeklesti. Odamiz temizdi ve\nyatak oldukça rahatti. Sabah kahvaltisi ise tam istedigim gibiydi,\nçegitlilik harikaydi.",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Esma A.",
+        "stay_date": "bir ay önce",
+        "review_text": "Bonnie City Hotel’de konaklamak gerçekten keyifliydi. Otelin merkezi konumu sayesinde şehirdeki tüm turistik yerlere kolayca ulaşabiliyorsunuz. Kahvaltı çeşitleri çok fazla olmasa da, yeterliydi ve ürünler taze ve lezzetliydi.",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Mustafa Öztürk",
+        "stay_date": "bir ay önce",
+        "review_text": "Antalya’ya iş seyahati için geldiğimde Bonnie City Hotel’i tercih ettim. Babek’in yardımıyla check-in işlemi çok hızlı oldu. Oda temiz ve yatak çok rahattı. Sabah kahvaltısı ise çeşit açısından çok yeterliydi.",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Engin Çelik",
+        "stay_date": "bir ay önce",
+        "review_text": "Bonnie City Hotel’de kaldım ve her şey çok yolunda gitti. Odam oldukça rahat ve konforluydu. Otelin sigara içilebilen alanları olması gerçekten çok iyi düşünülmüş. Otelde kaldığım süre boyunca hiç sorun yaşamadım. Personel çok yardımseverdi.\"",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "METEHAN TURA",
+        "stay_date": "bir ay önce",
+        "review_text": "Fuar için Antalya'ya geldigimde Bonnie City Hotel'i tercih ettim. Resepsiyondaki\nBabek ve Ahmet çok ilgiliydi ve …",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Berat Çakmak",
+        "stay_date": "bir ay önce",
+        "review_text": "Antalya'ya iş için geldim ve Bonnie City Hotel'de konakladım. Resepsiyondaki Ahmet'in yardımları sayesinde çok rahat ettim. Oda konforlu ve sessizdi. Kahvaltıda taze peynirler ve börekler güne güzel bir başlangıç yaptı.",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Ömer Ötekan",
+        "stay_date": "bir ay önce",
+        "review_text": "Bonnie City Hotel’de kaldım ve gerçekten çok memnun kaldım. Özellikle resepsiyondaki Babek ve Ahmet’e teşekkür ederim, her konuda çok yardımcı oldular. Odamız ferah ve çok temizdi. Sabah kahvaltısı çok çeşitli ve lezzetliydi. Bir dahaki gelişimde yine burayı tercih edeceğim.",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Mehmetali Dalbudak",
+        "stay_date": "bir ay önce",
+        "review_text": "Tüm tatilim boyunca otel gerçekten çok rahatlatıcıydı. Oda oldukça konforluydu, yatak çok rahattı. Otel çok temiz ve düzenliydi. Resepsiyon ekibinden özellikle Fatih'e çok teşekkür ederim. Otelde geçirdiğim zaman boyunca herhangi bir problem yaşamadım ve her şey çok iyi organize edilmişti.\"",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Mursel Evece",
+        "stay_date": "bir ay önce",
+        "review_text": "Bonnie City Hotel’de konakladım ve her şeyden çok memnun kaldım. Resepsiyondaki Ahmet ve Babek’e her konuda bize yardımcı oldukları için teşekkürler. Odamız her gün temizlendi ve çok rahattı. Kahvaltı ise oldukça çeşitliydi.",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Emirhan Duman",
+        "stay_date": "bir ay önce",
+        "review_text": "İş seyahati için Bonnie City Hotel’i tercih ettim ve deluxe odasında kaldım. Check-in işlemi sadece birkaç dakika sürdü, bu da uzun bir yolculuktan sonra çok rahatlatıcıydı. Oda çok geniş ve rahattı. Check-out da aynı şekilde hızlı ve sorunsuz gerçekleşti. Babek’e ilgisi için teşekkür ederim.",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Leyla Yılmaz",
+        "stay_date": "bir ay önce",
+        "review_text": "Antalya ya ikinci gidişimde şehir merkezinde bir otel tercih ettik.Tarihi ve çarşı pazar gazilerimiz için harika bir konumu var otelin.Gezip yorulup hadi eve dönelim diyorduk.Zaten otel oda kapılarında like home yazısı da tamda gerçeği …",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "ali enes kaynarpınar",
+        "stay_date": "bir ay önce",
+        "review_text": "Otelin konumu mükemmel, Kaleiçi ve Saat Kulesi’ne yürüyerek ulaşılabiliyor. Otel gayet konforlu, odamı beğendim. Kahvaltı ise daha fazla çeşit sunabilirdi ama yine de yeterliydi. Personel gerçekten yardımcıydı, özellikle Fatih, Ahmet ve restoran personeli Resul’e teşekkürler.\"",
+        "rating": 4.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Erdem Doğan",
+        "stay_date": "bir ay önce",
+        "review_text": "Otelin merkezi konumu sayesinde birçok yere yürüme mesafesindesiniz. Kaleiçi’ne ve Saat Kulesi’ne çok yakın. Odalar geniş ve konforlu, yatakları çok rahat. Oteldeki sigara içilebilen oturma alanı büyük bir avantaj.\"",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Yusuf Karakayalı",
+        "stay_date": "bir ay önce",
+        "review_text": "Adana'dan Antalya'ya ailece tatil için geldik ve Bonnie City Hotel'de konakladik. Odalar genis, temiz ve modern bir sekilde dösenmisti. Sabah kahvaltisi oldukça zengindi, özellikle çocuklarimiz taze börekleri çok begendi. Sehir merkezine bu …",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Hozan Erdenet",
+        "stay_date": "bir ay önce",
+        "review_text": "Bonnie City Hotel’de iki gece kaldık ve her şey çok iyiydi. Resepsiyondaki Ahmet ve Babek’e ilgileri için çok teşekkür ederiz. Odamız çok temiz ve ferah bir şekilde hazırlanmıştı. Sabah kahvaltısı da oldukça zengindi.",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Kaan Ötekan",
+        "stay_date": "bir ay önce",
+        "review_text": "Bonnie City Hotel'de 2 gece konakladim. Check-in sirasinda resepsiyon ekibi beni çok sicak karsiladi ve islemlerim hizlica tamamlandi. Oda oldukça temiz ve ferahti. Check-out sirasinda da hiçbir aksilik yaçamadim. Ahmet'e bu süreçteki ilgisi için tesekkürler.",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "FENCİ TT",
+        "stay_date": "3 hafta önce",
+        "review_text": "Otel çok temiz. Konumu tam merkez. Kapalı otoparkı olması avantaj. Kahvaltısı gayet makul. Kışın kaldık Odamızda yorgan yoktu. Otelde yeteri kadar olmadığını söylediler. Yazın yeni açılmış olabilir ama kışa hazırlıkları yetersiz demekki. Onu da klimayı çalıştırarak çözdük. Fiyat performans oteli🤗 …",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Saniye Ayyildiz",
+        "stay_date": "2 ay önce",
+        "review_text": "Eşimle Antalya gezimizde bu otelde kahvaltı dahil 3 gece konakladık. oteldeki bütün calisanlar kibar ve güler yüzlü, yardım sever. Oda olarak standart oda tercih etmiştik. Odanin kullanım alanı yeterliydi. Eşyalar temiz ,yeni ve …",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Ece Şenfırat",
+        "stay_date": "3 ay önce",
+        "review_text": "Öncelikle otelin konumu ve kendine ait otoparkı olması çok iyiydi ve kendi aracımızla geldiğimiz için tercih sebebimizdi. Otel zaten yeni yapılmış eşyalar temizdi. Klima buz gibi soğutuyordu bence sıcak bölgelerde bu da büyük bir artı. …",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "AHMET SİNAN YILDIRIM",
+        "stay_date": "bir ay önce",
+        "review_text": "Bonnie City Hotel, gerçekten merkezi bir konumda. Saat Kulesi ve Kaleiçi’ne çok yakın, yürüyerek her yere rahatça ulaşabilirsiniz. Otelin konumu çok iyi. Odam rahattı ve personel yardımcıydı. Fatih, Ahmet ve restoran personeli Resul’e teşekkür ederim.\"",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "ayşen aydoğan",
+        "stay_date": "3 ay önce",
+        "review_text": "Bir gece konakladık düğün için gelmiştik. Keşke daha fazla kalsaydık dediğim bir otel. Konum olarak çok pratik. Kaleiçine ve merkeze çok yakın. Özel otoparkı olması büyük rahatlık. Otel çok temiz konforlu ve rahat. Her şey yeni. Çalışanlar …",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Sema Gökçe",
+        "stay_date": "3 ay önce",
+        "review_text": "Otele girdiğinizde güleryüzlü bir resepsiyonist sizi karsılıyor check in işlemleri ile ugrasırken limonata ve kendi yaptıkları tazecik kurabiyeleri tadabiliyorsunuz:) odalar gerçekten cok cok temiz ve ferah her sey yepyeni. …",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Mesut DAL",
+        "stay_date": "2 ay önce",
+        "review_text": "Bugüne kadar konakladığım (yaklaşık 1000/2000 arası) en kötü oteller arasına girebilir… Yorumum bu kadar kısa ve öz… …",
+        "rating": 1.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Mahmut Korkmaz",
+        "stay_date": "bir ay önce",
+        "review_text": "\"Bonnie City Hotel’de konaklama deneyimimiz harikaydı. Babek’e resepsiyondaki ilgisi ve güler yüzü için çok teşekkür ederiz. Odamız çok temizdi ve otelin genel atmosferi çok hoştu. Kahvaltı oldukça doyurucu ve çeşit açısından yeterliydi.\"",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Ali Çobanoğlu",
+        "stay_date": "bir ay önce",
+        "review_text": "Bonnie City Hotel, Antalya'nın merkezi bölgelerine oldukça yakın, Saat Kulesi ve Kaleiçi’ni kolayca gezebiliyorsunuz. Otel konforlu, odam rahattı. Personel de güler yüzlüydü. Fatih, Ahmet ve Resul’a ilgilerinden dolayı teşekkür ederim.\"",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Sevda Sevimlier",
+        "stay_date": "4 ay önce",
+        "review_text": "3 gece konakladım ama toplamda 3 oda değiştirdim. Hepsinde de farklı sorunlar vardı.\nÖn sokağa bakan deluxe odalarda her katta en soldaki odaların (dışardan binaya …",
+        "rating": 3.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "mirac emektar",
+        "stay_date": "2 ay önce",
+        "review_text": "Çalışan çok seviyeli , yardım sever ve kibar. Otel konaklama ihtiyacını karşılıyor keyifli bir ortamda kahvaltısı var. Merkezi bir konumda. Başak beye ve Pelin hanıma gündüz boyu destekleri Fatih beye ve Ahmet beye akşam geldiğimdeki …",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Yağmur Yılmaz",
+        "stay_date": "4 ay önce",
+        "review_text": "Fiyat performans oteli diyebiliriz. Çalışanlar gayet güler yüzlüydü ve sorularımıza yardımcı oluyorlardı. Odaların temizliği yeterliydi fakat halılarda lekeler vardı. Tuvalette havlu ve tuvalet kağıdı asacak yerler yoktu, en büyük eksik …",
+        "rating": 4.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Eren S",
+        "stay_date": "Tripadvisor\n, 3 ay önce",
+        "review_text": "Beklediğimizden çok çok daha iyiydi. Oda,klima her şey yepyeni ve kolay ulaşılabilirdi. Kahvaltı dahildi ve her gün farklı çeşit sıcaklar vardı kahvaltıda. Konum olarak da kapalı caddeye 5 dakika uzaklıkta,istediğiniz her yer ayağınızın …",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "İlayda D.Y",
+        "stay_date": "5 ay önce",
+        "review_text": "Şehir merkezi oteli olması en büyük avantajlardan sadece bir tanesi, Antalya’nın orta bir noktasında olduğu için ulaşım kolay sağlanıyor. Otel yeni açılmış olmasına rağmen herşey gayet başarılıydı. Personel, oda temizliği, genel otel …",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Murathan Sönmez",
+        "stay_date": "5 ay önce",
+        "review_text": "Otel yeni yapılmış bir otel. Her şey oldukça lükstü. Kahvaltı oldukça doyurucu ve lezzetli. Temizlik istendiğinde gayet güzel temizlik yapılıyor. Personel de çok ilgiliydi. En ufak isteğimizde yardım ediyorlardı. Antalya’da bu fiyat bandında tercih edilebilecek tek otel burası. Biz çok memnun kaldık",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Erva Mızrakçı",
+        "stay_date": "4 ay önce",
+        "review_text": "Antalya’da kalınabilecek harika bir otel. Otel konumu çok güzel. Çalışanlar nazik, güler yüzlü. Tertemiz odalar. Doyurucu bir kahvaltısı vardı. Küçük çocuk ile gelmeme rağmen herşey çok rahattı.",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Mazlum Akkaya",
+        "stay_date": "bir ay önce",
+        "review_text": "Şehrin merkezinde harika bir otel.Gerek konumu gerekse yeni bir otel olması ayrıca mükemmeldi.Otelin personellleri çok ilgililer ve güler yüzlü her konuda yardımcı oluyorlar herkese öneririm çok memnun kaldık teşekkür ederim.",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Hatice Isbilir",
+        "stay_date": "4 hafta önce",
+        "review_text": "Esim ile huzurlu,guvenli bir ortamda ikigunluk bir konaklamamiz oldu gayet temiz guzel,yeni nezih ,konum olarakta sehir merkezi sesiz  bir otel idi calisanlari gayet kibar efendiler idi, ikinci katta konakladik odalarin temizligi ile …",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "BULUT MR",
+        "stay_date": "3 ay önce",
+        "review_text": "Aldığı ücretsin karşılığını fazlasıyla veren bir işletme. Temiz, sakin, yeni malzemeler, uygun fiyat, otopark, kahvaltı, Güleryüz... Herşey güzeldi. Daha önce gittiğim oteller de hep memnuniyetsizlik oluyordu. Artık başka otel aramama gerek yok. Babak beye teşekkürler ilgililer...",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Mir Mur",
+        "stay_date": "bir ay önce",
+        "review_text": "It’s impossible to sleep in this hotel, strange loud sounds outside every night!\nBu otelde uyumak imkansız, her gece dışarıda garip sesler geliyor! …",
+        "rating": 1.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Mehmet Cihan Öztürk",
+        "stay_date": "2 ay önce",
+        "review_text": "Tek günlük kalışımız vardı birçok otelde zaman geçirdik fakat burası kadar yeni temiz ve lüks çıkmadı çalışanlar ilgili ve sakin bir yer özellikle odada yattıgınızda sessizlige dikkat ederseniz odadaki soğutucuya kadar herşey çok sessiz Deluxe oda öneririm şahaneydi Pelin babak ve ahmet çalışanlarıyla süper ilgililer",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Beş Dokuz59",
+        "stay_date": "bir ay önce",
+        "review_text": "Odalar temiz, yeni bir otel kullanılan malzemeler modern ve kaliteli. Kahvaltısını beğendim. Tavsiye ederim",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Emre",
+        "stay_date": "2 ay önce",
+        "review_text": "Sehir merkezinde gidilebilecek en iyi otel diyebilirim , hem otoparki var hemde güler yüzlü otel calisanlariyla karsilasiyorsunuz , ben cok gezen biri olarak bu oteli tüm samimiyetimle tavsiye ederim ! Insallah hep böyle kalirlar !",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Sevim K",
+        "stay_date": "Tripadvisor\n, 2 ay önce",
+        "review_text": "Otel yeni yapılmış.Tertemiz şık ve kaliteli ürün kullanılmış.Eşimle iş seyahatimiz için kısa süreli konakladık.Bu kadar memnun kalacağımızı tahmin etmemiştim.Personel ilgili ve güleryüzlü.Şehir merkezinde bir otel her yere yakın.Gelecek olanlara tavsıye ederım",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Ufuk Gursoy",
+        "stay_date": "4 ay önce",
+        "review_text": "Yeni bir oteldeki odalarin cok daha temiz olmasi gerekiyor, banyo kirliydi, salon kisminda yeri hali ile kaplamislar ancak halidaki sararmalar ve yanik renkleri cok bariz belli oluyordu, calisan kisiler gayet ilgili ancak temizlik anlaminda basarisiz bir otel.",
+        "rating": 3.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Memik Özsavci",
+        "stay_date": "4 hafta önce",
+        "review_text": "Ara sokakta olması dışında çok temiz yeni bir yer zaten odaları banyosu wc baya geniş kahvaltı salonu çok temiz düzgün geniş içerikli tavsiye ederim",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Ayşe Yumakoğulları",
+        "stay_date": "4 ay önce",
+        "review_text": "Antalya’nın merkezinde lüks tertemiz bir otel, çalışanlar güler yüzlü ve ilgili. Merkezde olduğu için birçok yere yürüyerek gidebildik. Kahvaltısı da çok yeterli ve güzeldi. Biz çok memnun kaldıkk, tavsiye ediyoruz 💯 …",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Enes Çetin",
+        "stay_date": "bir ay önce",
+        "review_text": "“Bonnie City Hotel” konakladığım süre boyunca çok memnun kaldım.Resepsiyondaki Ahmet ve Babek’e güler yüzleri için teşekkürler.Odamız her gün temizlendi ve çok konforluydu.”",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Özge Can",
+        "stay_date": "5 ay önce",
+        "review_text": "Kesinlikle tekrar geleceğiiiiiiz hem konaklamadaki konforu hem kahvaltıdaki lezzeti çalışanların güleryüzlülüğü, ilgisi ve en kıymet verdiğim temizliğiyle çok memnun kaldık kendi evimizde gibi hissettik ayrıca şehrin tam merkezinde oluşu …",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "İbrahim Dağcı",
+        "stay_date": "4 ay önce",
+        "review_text": "Odalar temiz.Personel güleryüzlü.Kahvaltı güzel.Konumu merkezde. Otopark var. Fiyatı da bu seviyelerde devam ederse Antalyaya geldiğimde başka otele gitmem.",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Cem Ç",
+        "stay_date": "Tripadvisor\n, 3 ay önce",
+        "review_text": "Güzel memnun kaldık resepsiyon çalışanları ilgili tavsiye ederim vee gerçekten odalar çok temiz yine gideceğim yerlerden birisi ve konumuda güzel sabah kalvaltıları biraz daha çeşitli olursa çok daha iyi olur herşey için teşekkür ederim   👍 …",
+        "rating": 4.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "T",
+        "stay_date": "2 hafta önce",
+        "review_text": "Şans verilmesi gereken bir otel ve hijyen konusunda çok iyi. Aynı zamanda personeller ilgili ve nazik.Teşekkür ediyoruz :)",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Berke Bilgin",
+        "stay_date": "bir ay önce",
+        "review_text": "4 gece kaldık ve çok memnun kaldık kahvaltısından odasına herşey çok güzeldi odalar temizdi özellikle ilgilendikleri için Ahmet Beye ve Sabat Beye özellikle teşekkür ederim",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Kemal Utku",
+        "stay_date": "3 ay önce",
+        "review_text": "Çok guzel nezih ve temiz bir otel sehir icinde olmasi ulasimi cok kolaylastiriyor odalari buyuk ve ferah calisanlar cok ilgili ve nazik her konuda yardimci oluyorlar acik bufe kahvaltisi ve kapali otopark olmasi cok guzel",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "d b",
+        "stay_date": "5 ay önce",
+        "review_text": "1 hafta konakladık, tertemiz bir oteldi. Konum olarak da çok güzel. Çalışanlar çok saygılı. Gönül rahatlığıyla tercih edebilirsiniz.",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Yiğit Semerci",
+        "stay_date": "bir ay önce",
+        "review_text": "Oteldeki restorandan çok keyif aldım calışanlar güler yüzlüydü yasin bey ve oğuz heye ilgileri için teşekkür ederim.",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "turkoz oztekin",
+        "stay_date": "5 ay önce",
+        "review_text": "Harika bi otel, hizmet ve hijyen inanilmazdi, çalisanlar çok ilgili, ayrica konum olarak muazzam bi yerde denize yuruyerek gittik, eğlence yeri kaleici diye merkezi bi yere yuruyerek 5 dakika bence yeni açilmasina rağmen herşey dört dörtlük",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Tugay Yılmaz",
+        "stay_date": "3 ay önce",
+        "review_text": "Çok temiz. Şehir merkezinde gezilecek her yere yakın. Cafesi, kahvaltısı ile çok memnun kaldık.",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "BM K",
+        "stay_date": "4 ay önce",
+        "review_text": "Konum güzel. Odalar görüntüde çok iyi ama eksikleri var. Kahvaltı mükemmel. Duş giderleri hiçbir odada çalışmıyor vs",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "babak mehrparvar",
+        "stay_date": "bir ay önce",
+        "review_text": "Çok güzel bir hotel\nBurda çalışmak son derece mükemmel\nHer kese tavsiye ederim\nİyi tatıller dilerim",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Emre Glr",
+        "stay_date": "5 ay önce",
+        "review_text": "Kahvaltıdan çok memnun kaldım, personellerin güler yüzüne diyecek hiçbir şeyim yok gerçekten güzel bir tecrübe oldu her açıdan, en yakın zamanda tekrar geleceğim.",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "sina shirazi",
+        "stay_date": "2 ay önce",
+        "review_text": "Mükemmel bir hotel\nÇok temiz\nKahvsltı mütiş …",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "hamza güner",
+        "stay_date": "bir ay önce",
+        "review_text": "Şehir merkezinde mükemmel konum, otelde güzel. Kusur aramazsanız bulamazsınız",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Muhammed Taha Yanmaz",
+        "stay_date": "4 ay önce",
+        "review_text": "Bir şehir oteli olarak merkeze yakınlığı, misafir perverlikleri ve otel hizmeti olarak çok beğendim, tavsiye ederim, başarılar 👍🏻 …",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "ecem nadir",
+        "stay_date": "5 ay önce",
+        "review_text": "Resepsiyondan çok memnun kaldık çok güler yüzlü ve çözüm odaklılardı, otel temizdi kahvaltı seçeneği fazlaydı",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Sanberk Kaya",
+        "stay_date": "5 ay önce",
+        "review_text": "Kahvaltı çok güzeldi, personel hemen yardıma hazır yakın zamanda yenilenmişler her şey yepyeniydi tavsiye ediyorum.",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "ömer akif arda",
+        "stay_date": "5 ay önce",
+        "review_text": "Yemekler harikaydı aynı şekilde bütün çalışanlarda çok güler yüzlü ve naziklerdi. Gerçekten söylendiği kadar güzel bir yer.",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Nil Urfalı",
+        "stay_date": "5 ay önce",
+        "review_text": "Çok keyifli bir tatil geçirdik.Çalışanlar oldukça ilgiliydi yemeklerden de memnun kaldık.Kesinlikle tavsiye ederim.",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "MEDİYAR DENIZ",
+        "stay_date": "bir ay önce",
+        "review_text": "Kaleiçi ve Saat Kulesi’ne oldukça yakın bir otel. Bu açıdan çok avantajlı. Otel genel olarak güzel, odalar temizdi. Kahvaltı çeşitliliği yeterliydi. Otel çalışanları da oldukça ilgili, özellikle Fatih, Ahmet ve restoran personeli Resul’e teşekkürler.\"",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Beyza Kılınç",
+        "stay_date": "5 ay önce",
+        "review_text": "Çok memnun kaldık, kaliteli ve güler yüzlü hizmet, yemekler çok lezzetliydi ve odalar tertemizdi",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Aşır Taner ONASI",
+        "stay_date": "4 ay önce",
+        "review_text": "Çalışanlar güler yüzlüydü. Çiçeği burnunda bir otel. Ben memnun kaldım.",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Ahmet Yılmaz",
+        "stay_date": "4 ay önce",
+        "review_text": "Çok temiz odalar personeller de güler yüzlü ve ilgiliydi memnuk kaldık",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Ebrar Bank",
+        "stay_date": "5 ay önce",
+        "review_text": "Personel çok ilgiliydi çok memnun kaldık. Hiçbir sorun yaşamadan tatilimizi tamamladık.",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Hasan efe çimer",
+        "stay_date": "5 ay önce",
+        "review_text": "Yeni güzel bir otel. Fazlasıyla ilgilendiler. Her şey için teşekkürler.",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Nuri Erdal",
+        "stay_date": "5 ay önce",
+        "review_text": "Eskiden bilardo sallanırken şimd insanların konaklaması için yapılan güzel bir Mekan",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Duygu Şahin",
+        "stay_date": "bir ay önce",
+        "review_text": "Konum merkeze yakın personel ve otel muhteşemdi",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Richard Würfel",
+        "stay_date": "2 ay önce",
+        "review_text": "Harika otel! Odalar rahat ve temizdir. İsteğe göre daha kalın battaniyeler alabilirsiniz. Genel olarak servis mükemmel. Resepsiyonda 7/24 biri var. Arabanızı binanın altındaki yer altı garajına park edebilirsiniz. Kahvaltı çok çeşitli, …",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "lina elmrini",
+        "stay_date": "4 ay önce",
+        "review_text": "Yakın zamanda ailemle birlikte bu otelde kaldım ve harika bir deneyimdi. Otel, içeri adım attığınız andan itibaren lüksü yansıtan, güzel bir tasarıma sahiptir. Odamız geniş, tertemiz ve inanılmaz derecede konforluydu; bu da onu dışarıda …",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "sravani06",
+        "stay_date": "Tripadvisor\n, 3 ay önce",
+        "review_text": "Muhteşem ve konuksever personeli sayesinde otelde harika bir konaklama geçirdik. Deneyimimizi gerçekten özel ve konforlu hale getirdiği için Fatih ve Babak'a özel teşekkürler. Kahvaltıyı, dost canlısı kediyi, açık havadaki oturma alanını ve …",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Paula melón rodríguez",
+        "stay_date": "2 ay önce",
+        "review_text": "Konumu mükemmel, merkeze yürüyerek sadece 10 dakika uzaklıkta. Bölge sessiz ve hiç gürültülü değil. Resepsiyon personeli çok cana yakındı ve kahvaltı garsonları çok dikkatliydi. Odalar temiz ve ihtiyacınız olan her şeye sahip. Yatak biraz …",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Jinan A",
+        "stay_date": "Tripadvisor\n, bir ay önce",
+        "review_text": "Yakın zamanda yenilenmiş, güler yüzlü personele sahip güzel bir otel. Diğerleri gibi yardım ve tavsiye vermek için elinden geleni yapan Babak'ın, Arzo ve Ahmet'in ismini vermek isterim.  Türk kahvaltısından çok memnun kaldık, odalar geniş ve temizdi. Şiddetle tavsiye edilir.",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Mykhailo Ostroverkhov",
+        "stay_date": "3 ay önce",
+        "review_text": "İyi bir eleştiri yazıp yüksek puan vermeyi planlıyordum ancak çıkış deneyimi otel hakkındaki izlenimimi mahvetti. …",
+        "rating": 2.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "mohamed rameezudeen",
+        "stay_date": "bir ay önce",
+        "review_text": "Yakın zamanda Bonnie City Hotel'de kalma zevkini yaşadım ve baştan sona olağanüstü bir deneyimdi! Personel son derece misafirperver ve özenliydi; kaldığım sürenin her ayrıntısının mükemmel olmasını sağladı. …",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "LubaK",
+        "stay_date": "bir ay önce",
+        "review_text": "Personel için bir artı, hoş ve yardımseverler, odalar da iyi, biraz daha fazla seçeneğimiz vardı, çalışan bir gideri olan güzel bir duş (bunun için benden büyük bir artı Kahvaltılar tek temalı, çok küçük bir seçim). sadece Nescafe hazır kahve. Alan berbat, çöplerle kaplı bir otoparkın karşısında, yani manzara yok, balkon yok.",
+        "rating": 3.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Евгения Зайцева",
+        "stay_date": "2 ay önce",
+        "review_text": "Harika bir otel. Yeni, modern, çok temiz. Resepsiyonda ve restoranda havanın aromatizasyonu ve hoş müzik. Otelde sigara içme yasağından memnun kaldım (restoranın iç açık avlusunda özel bir yer hariç. Geniş odalar, uyumak çok rahat - …",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "SCREEN SPIRITS",
+        "stay_date": "2 ay önce",
+        "review_text": "Orada 3 gece kaldık ve iyi vakit geçirdik! Oda temiz ama oldukça küçüktü. Yatak biraz sertti ama bu nedenle duş gerçekten geniş ve moderndi! …",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Fearless43868136472",
+        "stay_date": "Tripadvisor\n, bir ay önce",
+        "review_text": "İyi konum. Yeni oda çok güzel bir konaklama. Tek sorun, kahvaltının 8'de sunulmasıydı. Keşke biraz daha erken olsaydı ama oda çok güzel ve turistik bölgelere yakın. Temizliğini ve personelin çok yardımsever olmasını ve taksi konusunda bana yardımcı olmasını seviyorum.",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "asajid48",
+        "stay_date": "Tripadvisor\n, 2 ay önce",
+        "review_text": "5 - 13 Kasım tarihleri arasında bu otelde kalıyoruz, otel çok temiz, büyük oda ve kahvaltı uygun fiyata, tavsiye ederim, iyi konum |Gerçekten tadını çıkarın! Servis ve konum inanılmaz. Babak, Ahmet, Arzu ve Fatih'e özellikle teşekkür …",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Mahgoub Magdi",
+        "stay_date": "4 ay önce",
+        "review_text": "Eşim ve ben bu otele rezervasyon yaptırdık çünkü bebek yatağı olacağının reklamını yaptılar. Geldiğimizde bebek yatağı şiltesinin sığmadığını ve tabanının eksik olduğunu, bu durumun 2 aylık çocuğumuz için güvensiz hale geldiğini fark ettik. …",
+        "rating": 1.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Kürşat Özdemir",
+        "stay_date": "bir ay önce",
+        "review_text": "Antalya şehir merkezine yaptığım gezi sırasında bu otele rastladım. Bu otel tüm beklentilerimi aştı. Uygun fiyatlarıyla inanılmaz değer sunan, şehir merkezindeki en lüks otel olduğunu rahatlıkla söyleyebilirim. Konaklamanızı ayırtın ve seyahatinizin tadını çıkarın :)",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Rahman Khokhar",
+        "stay_date": "2 ay önce",
+        "review_text": "Mükemmel otel ve harika bir konumda. Turistik bölgeye 10 dakikalık yürüme mesafesinde ve yerel mağazaların hemen yanında. Personel, check-in yaptığımız andan itibaren, kaldığımız süre boyunca ve ayrıldığımızdan beri harikaydı. …",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Juliane Sturmhöfel",
+        "stay_date": "bir ay önce",
+        "review_text": "Bonnie City Hotel'de harika bir konaklama geçirdik. Odalar çok temiz ve rahattı, personel çok cana yakındı ve kahvaltı iyiydi. Kahve makinesinin bozuk olması ve şu anda sadece Nescafé'nin bulunması çok yazık. …",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "박혜진",
+        "stay_date": "2 hafta önce",
+        "review_text": "Bir ara sokakta ama tramvaya yakın olduğundan trafik fena değil. Yakınlarda park ve deniz olması güzeldi. Personel çok dost canlısı ve odalar ve banyolar temiz. Kahvaltı da gerçekten çok lezzetliydi. Yakında bir süpermarketin olması güzeldi",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Даша Ф",
+        "stay_date": "Tripadvisor\n, 2 ay önce",
+        "review_text": "Penceresi olmayan bir odada yaşıyorduk ama genel olarak sorun yoktu, çünkü sadece orada uyuyorduk. personel çok kibar ve nazik. Herhangi bir sorumuz olursa her zaman yardımcı oldular. odalar ve otel temiz, kahvaltıda yemekler de güzel. bu yüzden kalmak için bu oteli tavsiye ederim",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Getaway33883026940",
+        "stay_date": "Tripadvisor\n, 2 ay önce",
+        "review_text": "Otel temizdi ve personel güler yüzlüydü; Ahmet'e, Mesut'a ve resepsiyondaki tüm iyi arkadaşlara özellikle teşekkürler. Bizi havaalanına götüren taksi şoförü bile çok misafirperver ve dost canlısıydı. Konaklamamızdan keyif aldık ve kesinlikle geri döneceğiz, teşekkürler!",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "MOUH-DZ 23",
+        "stay_date": "2 ay önce",
+        "review_text": "Eşim ve ben bu otelde harika bir konaklama geçirdik.\n\nKonumu kesinlikle rakipsiz; şehrin tam kalbinde yer alıyor, ihtiyacınız olan her …",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Steven Z.",
+        "stay_date": "5 gün önce",
+        "review_text": "Otel çok yeni ve imkanları çok iyi. Konumu antik kentte olmasa da çok yakındır. Yürüyerek on dakikadan kısa sürede ulaşılabilir. Kahvaltı yetersizdi. Otelin servis personeli çok hızlı değil.",
+        "rating": 4.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Karli Folio",
+        "stay_date": "4 ay önce",
+        "review_text": "Yalnız bir kadın gezgin olarak burada 2 gece kaldım.\n\nArtıları: …",
+        "rating": 2.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "гулсим турлина",
+        "stay_date": "bir ay önce",
+        "review_text": "Transit olarak Antalya'da Bonnie City Otel'de kaldık. Rahat, kompakt, temiz. Tüm ilgi çekici yerler yakındadır. Kahvaltı lezzetlidir. Yöneticiler dost canlısı. Tavsiye ederim.",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "P",
+        "stay_date": "2 ay önce",
+        "review_text": "Otel, Antalya'nın merkezinde elverişli bir konuma sahiptir. Odalar yeni yenilenmiş, mobilyalar yeni. Wifi iyi çalışıyor. Kahvaltılar oldukça mütevazı. İyi fiyat.",
+        "rating": 4.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "YIH FONG Hoo",
+        "stay_date": "4 hafta önce",
+        "review_text": "Bonnie City Hotel'de kalmak harika bir deneyimdi. Antalya'da kaldığımız süre boyunca eşimle harika vakit geçirdim, enerjik genç adam Babak ve Ahmet'in personel hizmetleri harika. Bu bölgede kısa süreli konaklamalar için şiddetle tavsiye edilir",
+        "rating": 4.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Parisa Mokhtarzadeh",
+        "stay_date": "4 ay önce",
+        "review_text": "Otel Bonnie City'deki kalışımızdan çok keyif aldık. Çok temizdi, yeni inşa edilmişti ve şehir merkezine çok yakındı. Resepsiyon Sn. Babak çok iyi bir insan ve bize saygılı bir şekilde yardımcı oldu. Otel misafirleri için taksi indirimi de mevcuttur. Kahvaltı da iyiydi👌 …",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Kaushi Jayawardena",
+        "stay_date": "2 ay önce",
+        "review_text": "Oda temiz, tüm olanaklara sahip. Personel, özellikle de Serkan, nazik ve Kaleiçi'ne ve marinaya birkaç metre yürüme mesafesindedir. Çok sayıda yerel yaşam göreceksiniz.",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "映妤 郭",
+        "stay_date": "Tripadvisor\n, 2 ay önce",
+        "review_text": "Gerçekten tadını çıkarın! Servis ve konum inanılmaz. Babak, Ahmet, Arzu ve Fatih'e özellikle teşekkür ederiz, çok cana yakınlar ve her türlü sorunumuzda bize çok yardımcı oldular. Sadece bu değil, buradaki konum Ana Caddeye ve farklı ulaşım istasyonlarına da yakın. Kesinlikle tavsiye ederim!",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Gilberto",
+        "stay_date": "3 ay önce",
+        "review_text": "Yapısı mükemmelden de öte. Temiz ve ferah oda, otelin içinde park yeri, cana yakın ve yardımsever personel. Otelin stratejik konumu, tarihi merkeze bir taş atımı uzaklıkta. Şüphesiz tavsiye edilir.",
+        "rating": 5.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Aziza Z",
+        "stay_date": "Tripadvisor\n, 2 ay önce",
+        "review_text": "Burada kalmaktan mutluyuz, çünkü personel çok cana yakın ve nazik, Ahmet ve Babak en iyisi, çok teşekkür ederim, Geri döneceğiz, odalar büyük, konforlu, rahat ve temiz, bu oteli ziyaret etmenizi tavsiye ederim . |🔥🔥🔥fiyat normal👍🏻👍🏻 …",
+        "rating": 5.0,
+        "source": "Google Maps"
+    }
+]
