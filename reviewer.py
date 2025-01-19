@@ -45,16 +45,21 @@ def initialize_driver():
     try:
         st.write("Initializing WebDriver...")
         options = ChromeOptions()
-        options.add_argument("--headless")
-        options.add_argument("--disable-gpu")
-        options.add_argument("--no-sandbox")
-        options.add_argument("--disable-dev-shm-usage")  # Linux'ta memory hatalarını önler
-        options.binary_location = "/usr/bin/chromium"  # Linux'taki Chromium path'i
         
-        driver = webdriver.Chrome(
-            service=ChromeService("/usr/bin/chromedriver"),  # Linux'taki ChromeDriver path'i
-            options=options
+        # Headless mode ayarları
+        options.add_argument("--headless")  # Arka planda çalışması için
+        options.add_argument("--disable-gpu")  # GPU hızlandırma engelleme (headless için gerekli)
+        options.add_argument("--no-sandbox")  # Güvenlik izolasyonu kaldırılır (Linux)
+        options.add_argument("--disable-dev-shm-usage")  # Dev shared memory'yi devre dışı bırakma (Linux)
+        
+        # Kullanıcı ajanı ayarı (bazı sitelerde gerekli olabilir)
+        options.add_argument(
+            "user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
         )
+
+        # Eğer Linux ortamında iseniz, Chromium'un doğru konumda olduğundan emin olun
+        options.binary_location = "/usr/bin/chromium"  # Eğer 'chromium' yola yerleştirilmişse
+        driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()), options=options)
         st.write("Chrome WebDriver initialized.")
         return driver
     except Exception as e:
