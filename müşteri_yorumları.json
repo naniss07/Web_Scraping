@@ -715,7 +715,7 @@
     },
     {
         "customer_name": "박혜진",
-        "stay_date": "2 hafta önce",
+        "stay_date": "3 hafta önce",
         "review_text": "Bir ara sokakta ama tramvaya yakın olduğundan trafik fena değil. Yakınlarda park ve deniz olması güzeldi. Personel çok dost canlısı ve odalar ve banyolar temiz. Kahvaltı da gerçekten çok lezzetliydi. Yakında bir süpermarketin olması güzeldi",
         "rating": 5.0,
         "source": "Google Maps"
@@ -810,5 +810,645 @@
         "review_text": "Burada kalmaktan mutluyuz, çünkü personel çok cana yakın ve nazik, Ahmet ve Babak en iyisi, çok teşekkür ederim, Geri döneceğiz, odalar büyük, konforlu, rahat ve temiz, bu oteli ziyaret etmenizi tavsiye ederim . |🔥🔥🔥fiyat normal👍🏻👍🏻 …",
         "rating": 5.0,
         "source": "Google Maps"
+    },
+    {
+        "customer_name": "Ripple",
+        "stay_date": "Kasım 2024",
+        "review": "Olumlu: Excellent location, comfortable room, very responsive and accommodating owner.\nOlumsuz:",
+        "rating": 10.0,
+        "source": "Booking.com",
+        "page": 1
+    },
+    {
+        "customer_name": "Lina",
+        "stay_date": "Ekim 2024",
+        "review": "Olumlu: small place but very cosy, clean and perfect location, beautiful view, so may lovely cafes and places around the apartment\nOlumsuz:",
+        "rating": 9.0,
+        "source": "Booking.com",
+        "page": 1
+    },
+    {
+        "customer_name": "Lucy",
+        "stay_date": "Ekim 2024",
+        "review": "Olumlu: Fantastic location to be able to enjoy the Sacre Cœur from our window and in the early mornings and late nights without the crowds. Very authentic, quirky and stylish apartment, with cute well equipped kitchen & seating area for coffees and basic breakfast. Good to meet the helpful owner at different points too.\nOlumsuz: Overall apartment and kitchen felt clean although the bathroom was in need of a deep clean to remove pink biofilm from tiling and grout, and staining in toilet bowl.",
+        "rating": 8.0,
+        "source": "Booking.com",
+        "page": 1
+    },
+    {
+        "customer_name": "Ian",
+        "stay_date": "Eylül 2024",
+        "review": "Olumlu: The host was friendly and easily contactable. Location is superb. The room was quiet even though it was central to all the shops and restaurants.\nOlumsuz: The stairs are very narrow and spiral so carrying heavy suitcases up is difficult.",
+        "rating": 8.0,
+        "source": "Booking.com",
+        "page": 1
+    },
+    {
+        "customer_name": "Neil",
+        "stay_date": "Ağustos 2024",
+        "review": "Olumlu: Location was great, bed very comfortable.\nOlumsuz: Fruit flys in kitchen area",
+        "rating": 8.0,
+        "source": "Booking.com",
+        "page": 1
+    },
+    {
+        "customer_name": "Agata",
+        "stay_date": "Ağustos 2024",
+        "review": "Olumlu: The location was amazing. The art work and design of the room was gorgeous. The kitchen was well equipped. The view was beautiful. The owner was helpful and accommodating.\nOlumsuz: There was not a proper shower, but it was fine. The bathroom was a little musty.",
+        "rating": 9.0,
+        "source": "Booking.com",
+        "page": 1
+    },
+    {
+        "customer_name": "Elizabeth",
+        "stay_date": "Haziran 2024",
+        "review": "Olumlu: Great location. Great communication.\nOlumsuz:",
+        "rating": 7.0,
+        "source": "Booking.com",
+        "page": 1
+    },
+    {
+        "customer_name": "Stephen",
+        "stay_date": "Haziran 2024",
+        "review": "Olumlu: Fantastic location. View of Sacre Coeur from the window. \nSimple breakfast was available.\nOlumsuz: The bathroom needs a deep clean & a freshen up. \nTV was not reliable. \nNo black tea.",
+        "rating": 7.0,
+        "source": "Booking.com",
+        "page": 1
+    },
+    {
+        "customer_name": "Yosr",
+        "stay_date": "Nisan 2024",
+        "review": "Olumlu: View and Location\nOlumsuz: breakfast",
+        "rating": 8.0,
+        "source": "Booking.com",
+        "page": 1
+    },
+    {
+        "customer_name": "Michele",
+        "stay_date": "Mart 2024",
+        "review": "Olumlu: Location was the best! 2 mins from Sacre coeur, perfect for photography at Sunrise.\nRoom was nice, plenty of room.\nOlumsuz: The stairs up to bathroom I found challenging so maybe not suitable for less mobile.",
+        "rating": 9.0,
+        "source": "Booking.com",
+        "page": 1
+    },
+    {
+        "customer_name": "Neil",
+        "stay_date": "Şubat 2024",
+        "review": "Olumlu: Location is great in the heart of Montmartre. Despite location it was quiet on a night. Lovely comfortable apartment (Dalí) with view of Sacre Coeur from the window. Communication from the owner was excellent.\nOlumsuz: Initial impression past bins is not great. Steep stairs to the apartment weren’t an issue for us but may be for some although you do need to “totter” up the stairs with drinks from the kitchen. Property was very clean but could maybe do with a lick of paint here and there but not a big issue. We had an issue with the bath which was very quickly sorted with the owner.\nBasic breakfast in the fridge in the lovely kitchen area. We bought croissants from next door. We had the kitchen to ourselves but might be a bit “intimate” if others are in at the same time!",
+        "rating": 9.0,
+        "source": "Booking.com",
+        "page": 2
+    },
+    {
+        "customer_name": "Kathryn",
+        "stay_date": "Şubat 2024",
+        "review": "Olumlu: A cute little Bolthole at the heart of Monmatre - with great view of the cathedral out the window. \nComfortable and has everything you need for a short stay in the heart of Paris.\nOlumsuz: The bathroom sink would struggle to drain.",
+        "rating": 9.0,
+        "source": "Booking.com",
+        "page": 2
+    },
+    {
+        "customer_name": "Debbie",
+        "stay_date": "Ocak 2024",
+        "review": "Olumlu: The perfect location for a Montmartre stay with easy access to restaurants, galleries and the perfect place to enjoy a leisurely stroll around the area. The view of the Sacre Coeur was exceptional (it's my favourite building in Paris) both by day and night. The bed was very comfortable and the bathroom was spacious for a European facility.\nOlumsuz: Lugging suitcase's up the stairs! BUT that is just us being picky, we had been travelling through US and Europe for 6 weeks and as such had large heavy suitcases and maneuvering the luggage up the stairs was a challenge. If you want a character property this is quite often the case so we dealt with it.",
+        "rating": 9.0,
+        "source": "Booking.com",
+        "page": 2
+    },
+    {
+        "customer_name": "Katie",
+        "stay_date": "Ekim 2023",
+        "review": "Olumlu: Fantastic location, lovely room with seating area and en-suite shower! Exactly what we needed for a mini break.\nOlumsuz: Basic breakfast but didn’t bother us too much as we could make coffee. Lovely croissants next door.",
+        "rating": 8.0,
+        "source": "Booking.com",
+        "page": 2
+    },
+    {
+        "customer_name": "Amanda",
+        "stay_date": "Ekim 2023",
+        "review": "Olumlu: The location was perfect! You could see the Sacre Coeur from the bedroom windows. When you went out you were right in the heart of Montmartre. I also liked the shared kitchen area. It was well stocked and it was nice to be able to have breakfast at a time that suited us. Also nice to meet the other guests staying there.\nOlumsuz: Out friends were in the room above and the stairs to their bathroom were a little steep.",
+        "rating": 9.0,
+        "source": "Booking.com",
+        "page": 2
+    },
+    {
+        "customer_name": "Paul",
+        "stay_date": "Ekim 2023",
+        "review": "Olumlu: Exceptional location right in the heart of Montmartre. If you’re looking for an authentic accomodation in this wonderful historic part of Paris, then this is the place to stay. Thoroughly enjoyed our stay. Thank you.\nOlumsuz: The Pillows!! Far too hard and no spares to give you another option. Would recommend having a couple of spare softer pillows on the bed.",
+        "rating": 9.0,
+        "source": "Booking.com",
+        "page": 2
+    },
+    {
+        "customer_name": "Kenneth",
+        "stay_date": "Eylül 2023",
+        "review": "Olumlu: Good room in an interesting location. We could see Sacre Couer Basilica from our window which was great. The accommodation was in the heart of Montmartre so was close to lots of restaurants, museums and other attractions. The downstairs breakfast room was well equipped and was a good spot to meet others also staying in the apartments.\nOlumsuz: Breakfast was a bit limited and the stairs to to room were very steep and the spiral staircase was a challenge with our luggage. Wifi was a bit hit and miss.",
+        "rating": 8.0,
+        "source": "Booking.com",
+        "page": 2
+    },
+    {
+        "customer_name": "Suzanne",
+        "stay_date": "Ekim 2023",
+        "review": "Olumlu: There was a great breakfast selection and the location was great and it was good to be able to step inside out of the crowds sometimes but still feel right there among the charm of Montmartre\nOlumsuz: The bathroom was a little bit small",
+        "rating": 8.0,
+        "source": "Booking.com",
+        "page": 2
+    },
+    {
+        "customer_name": "Muhammad",
+        "stay_date": "Eylül 2023",
+        "review": "Olumlu: Location\nOlumsuz: No AC, no lift",
+        "rating": 7.0,
+        "source": "Booking.com",
+        "page": 2
+    },
+    {
+        "customer_name": "Matthew",
+        "stay_date": "Ağustos 2023",
+        "review": "Olumlu: Being so close to the Sacre Coeur and in the heart of Monmarte but so quiet and peaceful in the apartment.\nOlumsuz: Nothing",
+        "rating": 9.0,
+        "source": "Booking.com",
+        "page": 2
+    },
+    {
+        "customer_name": "Rivera",
+        "stay_date": "Ağustos 2023",
+        "review": "Olumlu: Location location location!!! Also the open windows are to dieeee for, (just be careful leaving them open throughout the night, bugs will come)\nOlumsuz: I wish there was a shower also. Easy to get the whole bathroom wet w the tub shower.",
+        "rating": 7.0,
+        "source": "Booking.com",
+        "page": 3
+    },
+    {
+        "customer_name": "Eléonore",
+        "stay_date": "Temmuz 2023",
+        "review": "Olumlu: Location\nOlumsuz: Pillows",
+        "rating": 8.0,
+        "source": "Booking.com",
+        "page": 3
+    },
+    {
+        "customer_name": "Matt",
+        "stay_date": "Temmuz 2023",
+        "review": "Olumlu: Location was excellent, comfy bed,good views,fairly quiet, fridge was packed downstairs for breakfast, iron,\nOlumsuz: There was only a bath which was ok but it didn’t drain very well, a lot of mosquitoes, no air cond which in fairness the property didn’t advertise it had it but couldn’t leave the windows open due to the mosquitoes. Great place to stay in cooler weather not summer",
+        "rating": 7.0,
+        "source": "Booking.com",
+        "page": 3
+    },
+    {
+        "customer_name": "Houtzen",
+        "stay_date": "Temmuz 2023",
+        "review": "Olumlu: The apartment is beautiful and styled lovely. perfect location and amazing views of the Basilique Du Sacre Coeur from the bedroom window. When you walk outside, you are in Montmartre markets full of cafes and restaurants. We were only here for a very short stay before we flew home. We did get to the famous Moulin Rouge for dinner and show, and the walk there is only a 15 min walk from the apartment.\nOlumsuz: There are quite a few stairs to climb, especially if you have large suitcases",
+        "rating": 9.0,
+        "source": "Booking.com",
+        "page": 3
+    },
+    {
+        "customer_name": "Fay",
+        "stay_date": "Haziran 2023",
+        "review": "Olumlu: The location was fabulous and nice and clean. it was close to shops and restaurants for daytime and evening.\nOlumsuz: I wasn’t expecting much for breakfast but it was a shame as it could have been much better. we didn’t bother and ate elsewhere. don’t let that out you off this place as otherwise it is perfectly lovely but just go out to eat :)",
+        "rating": 9.0,
+        "source": "Booking.com",
+        "page": 3
+    },
+    {
+        "customer_name": "Ziqi",
+        "stay_date": "Haziran 2023",
+        "review": "Olumlu: Great location and neighbourhood to explore as a tourist\nOlumsuz: Need to carry luggages up a number of stairs",
+        "rating": 9.0,
+        "source": "Booking.com",
+        "page": 3
+    },
+    {
+        "customer_name": "Sarah",
+        "stay_date": "Nisan 2023",
+        "review": "Olumlu: Great location and view from our room. Step outside straight onto a vibrant street close to restaurants and shops. We were treated to the gift of Easter egg in our room. Bed was comfortable and decor was tasteful.\nOlumsuz: Sofa in room was uncomfortable and was without cushions. Kettle was full of limescale so drinking tea was not pleasant. A descale would solve this. I expected all shower amenities however only shampoo and no shower gel in room.",
+        "rating": 8.0,
+        "source": "Booking.com",
+        "page": 3
+    },
+    {
+        "customer_name": "Laura",
+        "stay_date": "Nisan 2023",
+        "review": "Olumlu: The view was phenomenal! And the owner was very responsive to my requests.\nOlumsuz: Slightly hard to find with busy traffic. Coffee machine could have worked better.",
+        "rating": 9.0,
+        "source": "Booking.com",
+        "page": 3
+    },
+    {
+        "customer_name": "Lyndele",
+        "stay_date": "Nisan 2023",
+        "review": "Olumlu: So the view is amazing., straight out on to the Sacre Couer from the back and a distant view of the Eiffel Tower to the side. It’s a good space and incredibly quiet at night, despite being right in the centre of Mont Martre. \nThe kitchen was well equipped though the breakfast offerings were sparse. On the day we left the fridge was re-stocked. it was a little sad before but we came for the view, the breakfast was a bonus. \nThe accommodation was tastefully decorated and had lots of historical quirks such as beams and stone work. Communication was great and the little touch of an Easter chocolate gift was appreciated. We have already recommended to our friends 🙂\nOlumsuz: I think your first experience of the accommodation you have to walk past bins which doesn’t really sell your first view very well and you feel a little disappointed. Once further along and through the door then it’s a different story. The steps are steep to the bathroom so just be mindful of this if you struggle with steep stairs.",
+        "rating": 8.0,
+        "source": "Booking.com",
+        "page": 3
+    },
+    {
+        "customer_name": "Hannah",
+        "stay_date": "Mart 2023",
+        "review": "Olumlu: The location of this apartment was great for the old area of Monmartre in Paris. Right round the corner from Sacre Coeur and the steps for the amazing hilltop view of Paris. Easy to access the metro which takes you into the heart of Paris - usually about a 30 minute journey.\nOlumsuz:",
+        "rating": 7.0,
+        "source": "Booking.com",
+        "page": 3
+    },
+    {
+        "customer_name": "Sabina",
+        "stay_date": "Mart 2023",
+        "review": "Olumlu: Location. The apartment is located in the heart of Montmartre. You can see Sacre-Coeur right from your window. The communication with the host was excellent. We arrived early and were very excited. The host allowed us to check in earlier so we could rest. The apartment is beautiful and cosy.\nOlumsuz: The bathroom is located on the second floor of the apartment.\nRegarding the breakfast- the food was stored in the fridge- yoghurts, milk serials etc., it was like self-service. I was expecting more service and a better variety of food when it was written that breakfast was included. As a result, we didn't eat in the apartment.",
+        "rating": 7.0,
+        "source": "Booking.com",
+        "page": 4
+    },
+    {
+        "customer_name": "Peter",
+        "stay_date": "Aralık 2022",
+        "review": "Olumlu: Very stylish and clean in a superb location\nOlumsuz: No wardrobe space, no mirrors apart from the bathroom and steep stairs to the bathroom - didn’t have the breakfast which was in the fridge.",
+        "rating": 7.0,
+        "source": "Booking.com",
+        "page": 4
+    },
+    {
+        "customer_name": "Kelvin",
+        "stay_date": "Aralık 2022",
+        "review": "Olumlu: Location is very good and room was clean and spacious by Paris standards.\nOlumsuz: Promotion of the property did not suggest that breakfast facilities were in a shared kitchen with other guests. No facilities in the room for drinks and hot drinks needed to be safely carried up a steep staircase. Our lack of understanding about details bookin.com provide the property caused tense dealings with the property where the owner threatened to cancel our booking in several exchanges less than 24 hours before our arrival. He was provided with outdated credit card information and apparently has no access to the correct details used by 3 hotels prior to our booking. The correct details were updated with booking.com months before. The cancellation threat was very disconcerting and the tone and manner of emails from the owner very poor. Our reassurances that we were arriving and would not be a 'no show' did not help. After clicking 'manage your booking' I found I could solve his problem. I still don't understand why booking.com didn't update his information when my profile was fixed months earlier. The property has no reception desk or facility to pay on arrival which we did not know.",
+        "rating": 8.0,
+        "source": "Booking.com",
+        "page": 4
+    },
+    {
+        "customer_name": "Manuela",
+        "stay_date": "Eylül 2022",
+        "review": "Olumlu: The room was spacious and lovely decorated with a little lounge area. The location is stunning and convenient.\nOlumsuz: We had a little accident in the kitchen as we spotted a mouse so we did not feel comfortable having breakfast there. However the kitchen had all you needed and was clean",
+        "rating": 8.0,
+        "source": "Booking.com",
+        "page": 4
+    },
+    {
+        "customer_name": "Gicu",
+        "stay_date": "Ekim 2022",
+        "review": "Olumlu: The view from the room is spectacular. Property is very close to Sacre Coeur and numerous restaurants, cafes, artists and gift shops.\nOlumsuz: Getting to property on foot was very strenuous with hundreds of stairs. Recommend arriving by taxi if you are carrying luggage or not physically fit.",
+        "rating": 9.0,
+        "source": "Booking.com",
+        "page": 4
+    },
+    {
+        "customer_name": "Barbara",
+        "stay_date": "Ekim 2022",
+        "review": "Olumlu: \nOlumsuz: Super location, breakfast was minimal. The room was spacious and had a great Sacre Coeur view. The down side was the spiral stairs three flights up with no elevator and the stairs up to the bathroom we’re tricky and dangerous at night. I wouldn’t suggest this place for people with mobility difficulties.",
+        "rating": 7.0,
+        "source": "Booking.com",
+        "page": 4
+    },
+    {
+        "customer_name": "Gordon",
+        "stay_date": "Eylül 2022",
+        "review": "Olumlu: Hosts were very friendly and helpful in communications, although we never met them in person. The location near Sacre Coeur, the views from our window and being in Montmartre were the best features. We enjoyed our stay here very much.\nOlumsuz: The street door is in very poor repair - needs painting and the lock is broken. The apartment was comfortable but not quite as spacious as suggested in the description. Also the description that: \"Each suite ... features .... a private bathroom with a bath.\" is not correct - the first floor apartment has no bath, which was a disappointment. On the first morning of our stay, basic breakfast items were missing e.g. milk, fruit juice, coffee capsules for coffee machine. These were available on subsequent mornings. One of the pillows on the bed was very thin and poor quality, and when i said that I was used to sleeping with two pillows, the host very helpfully replaced the poor pillow for our third night but still left me with only one to sleep on. The wifi was very poor - e.g. it was not possible to stream Netflix.",
+        "rating": 8.0,
+        "source": "Booking.com",
+        "page": 4
+    },
+    {
+        "customer_name": "Alison",
+        "stay_date": "Eylül 2022",
+        "review": "Olumlu: Large room. Great view, very close to tourist area but quiet. Kitchen and breakfast provisions was good.\nOlumsuz: Lots of stairs to get to apartment from station and to get up to room. Bathroom up another flight of stairs and bath but no shower. Some of the lights not working",
+        "rating": 8.0,
+        "source": "Booking.com",
+        "page": 4
+    },
+    {
+        "customer_name": "Roxani",
+        "stay_date": "Eylül 2022",
+        "review": "Olumlu: -Beautiful location. You open the exit door and you're in the heart of Montmartre!\n-They let us leave the luggage before and after checkout, which was great!\n-Quiet room\n-Very comfortable bed\n-Clean\nOlumsuz: -Quite difficult to get there because it's very high and there are many many stairs. So do yourself a favour and just order a taxi. Only the bus 40 will get you to the top! Make sure you have cash for the ticket.\n\n-The host didn't speak a word of English, so he couldn't answer any of my questions. :( \nHe didn't know the password for the internet, and so it was quite stressful when I just arrived. I didn't have any data on my phone and really needed that internet as unfortunately we do depend on it even for money these days and many other things. Good thing booking.com has a section where you can chat with someone who did speak English! \n\n-The \"Breakfast included\" was in the communal kitchen. So you have to just grab cheese, jam, milk, juice and bread from the fridge. Then there was a Nespresso machine and kettle for tea. Some cereal on the shelf. I would have liked to know it was self-serve beforehand.\n\n-The shower was flooding after 5 minutes of showering. \n\n-The room smaller than expected. Booking.com shows many many photos , so I was quite confused when the host opened the door! Didn't look like what I booked, but then figured out it was cause the website showed all the photos of the rooms, not just mine.",
+        "rating": 7.0,
+        "source": "Booking.com",
+        "page": 4
+    },
+    {
+        "customer_name": "Deborahglondon",
+        "stay_date": "Mayıs 2022",
+        "review": "Olumlu: What a delightful apartment. Fantastic location with a wonderful view of the Sacre Coeur. Tucked away but right in the heart of Montmartre. Highly recommended.\nOlumsuz: Nothing",
+        "rating": 9.0,
+        "source": "Booking.com",
+        "page": 4
+    },
+    {
+        "customer_name": "Lisa",
+        "stay_date": "Haziran 2022",
+        "review": "Olumlu: Amazing location, a stones throw away from Sacre Coeur! The room was located on the top floor so gorgeous views. The rooms were clean and perfect for our stay.\nOlumsuz: It didn’t matter to us but just to be aware there are a lot of stairs so if you struggle with stairs this could be an issue.",
+        "rating": 8.0,
+        "source": "Booking.com",
+        "page": 5
+    },
+    {
+        "customer_name": "Gina",
+        "stay_date": "Aralık 2021",
+        "review": "Olumlu: Beautiful room with stunning view of the Sacre Coeur, right at the top of Montmatre (a climb to get there!). Our room was spacious and we had use of the kitchenette downstairs. Plenty of information and tips provided by the hosts (although it did take some prompting to receive the necessary access info).\nOlumsuz: The room smelled like cigarettes (but, it's Paris...).",
+        "rating": 8.0,
+        "source": "Booking.com",
+        "page": 5
+    },
+    {
+        "customer_name": "Susanna",
+        "stay_date": "Ekim 2024",
+        "review": "Olumlu: Location; we were able to check in early; close to public transportation; self serve breakfast was available but very limited.\nOlumsuz: Bathroom is very small, tight; water gets everywhere; small mirror in bathroom.",
+        "rating": 7.0,
+        "source": "Booking.com",
+        "page": 5
+    },
+    {
+        "customer_name": "Amy",
+        "stay_date": "Eylül 2023",
+        "review": "Olumlu: Great location. The view is beautiful. Quick response to our question. Tastefully decorated. Kitchen access is appreciated.\nOlumsuz: Bath tub drain needs to be fixed. Quite a few narrow stairs. We weren't bothered by them, but could be difficult for some. Culturally, my expectations of a hotel is that there would be staff visible. It wasn't a problem, just a difference in expectations.",
+        "rating": 8.0,
+        "source": "Booking.com",
+        "page": 5
+    },
+    {
+        "customer_name": "Kristian",
+        "stay_date": "Mart 2023",
+        "review": "Olumlu: good location, responsive host, clean and tide\nOlumsuz: breakfast is a bit too basic, every morning the personnel from nearby places were loud early in the morning",
+        "rating": 8.0,
+        "source": "Booking.com",
+        "page": 5
+    },
+    {
+        "customer_name": "Mickayla",
+        "stay_date": "Ocak 2024",
+        "review": "Olumlu: Breakfast included\nOlumsuz: Not as described. Location is next to the sacreCour but no trains nearby and hills galore! Tiny stairs to get to the room.",
+        "rating": 7.0,
+        "source": "Booking.com",
+        "page": 5
+    },
+    {
+        "customer_name": "Jacqui",
+        "stay_date": "Aralık 2024",
+        "review": "Olumlu: Cannot rate this accommodation highly enough. Absolutely outstanding. Apartment was fabulous, the location was just perfect and the owners were so helpful. We will be back again and again!!\nOlumsuz: Really can't fault.",
+        "rating": 10.0,
+        "source": "Booking.com",
+        "page": 5
+    },
+    {
+        "customer_name": "Kelly",
+        "stay_date": "Aralık 2024",
+        "review": "Olumlu: Perfect location. Great view. Quiet neighbors.\nOlumsuz: It was all fantastic!",
+        "rating": 10.0,
+        "source": "Booking.com",
+        "page": 5
+    },
+    {
+        "customer_name": "Claire",
+        "stay_date": "Ekim 2024",
+        "review": "Olumlu: Brilliant location in the heart of Monmarte\nOlumsuz:",
+        "rating": 10.0,
+        "source": "Booking.com",
+        "page": 5
+    },
+    {
+        "customer_name": "Pinar",
+        "stay_date": "Eylül 2024",
+        "review": "Olumlu: The room was spacious and comfortable and the building is located in heart of Montmartre. The view of the room from 2nd floor was nice.\nOlumsuz: The communication with the staff was very slow, they would get back to our questions quite late or sometimes ignore them. They provide basic breakfast which is good but the milks for cereals were over-dated by 2 weeks.\nWe stayed in 2 different rooms, and in both TV did not work at all.",
+        "rating": 6.0,
+        "source": "Booking.com",
+        "page": 5
+    },
+    {
+        "customer_name": "Sarah",
+        "stay_date": "Eylül 2024",
+        "review": "Olumlu: It had charm and character\nOlumsuz:",
+        "rating": 10.0,
+        "source": "Booking.com",
+        "page": 6
+    },
+    {
+        "customer_name": "Anthony",
+        "stay_date": "Temmuz 2024",
+        "review": "Olumlu: You can't beat the view and location from this apartment. The rooms are decorated beautifully. Within just a few steps you are on the steps of Sacre Coeur! It was so nice to open the windows and see the church. With only 3 rooms available, this was a very quite place to stay. You do have to go down a gated alley to get to the door.\nOlumsuz: The bathrooms were really small. This is just the way old homes were designed. If you book the top floor room, be prepared for a steep climb to the bathroom.",
+        "rating": 10.0,
+        "source": "Booking.com",
+        "page": 6
+    },
+    {
+        "customer_name": "Gerard",
+        "stay_date": "Ağustos 2024",
+        "review": "Olumlu: Beautiful property on the heart of Montmartre. Views of Sacre Coeur out of the window, and the bells rang out on the Sunday morning. Just lovely\nOlumsuz: Nothing",
+        "rating": 10.0,
+        "source": "Booking.com",
+        "page": 6
+    },
+    {
+        "customer_name": "Hannah",
+        "stay_date": "Nisan 2024",
+        "review": "Olumlu: Excellent stay, lovely room and excellent view.\nOlumsuz: Maybe some fresher food like fruit for breakfast, and there was no normal tea, which I rate as a regular item breakfast, but everything else was great.",
+        "rating": 10.0,
+        "source": "Booking.com",
+        "page": 6
+    },
+    {
+        "customer_name": "Gina",
+        "stay_date": "Nisan 2024",
+        "review": "Olumlu: The views and location is amazing. Bed was very comfortable and the pillows slept well.\nOlumsuz: Na",
+        "rating": 10.0,
+        "source": "Booking.com",
+        "page": 6
+    },
+    {
+        "customer_name": "Abby",
+        "stay_date": "Aralık 2023",
+        "review": "Olumlu: The location was perfect & the view magical. Was comfy & just a lovely place to stay & great value for Paris.\nOlumsuz: Nothing",
+        "rating": 10.0,
+        "source": "Booking.com",
+        "page": 6
+    },
+    {
+        "customer_name": "Cara",
+        "stay_date": "Kasım 2023",
+        "review": "Olumlu: The locations and the views were perfect as we had specifically wanted to stay in Montmarte, we stayed in the Dali suite so the view was great as we were top floor. \nThe sofa and chair were great as we comfortably watched films in the evening (by logging in to own accounts on Netflix)..\nI liked all the art work, the style and quirkiness of the place \nVery spacious \nI liked the check in details with all the recommendations\nOlumsuz: No shower and a bath that doesn’t drain, this made it impossible for us to both wash in the morning- I had a bath in the evening and the bath hadn’t drained by the time we went to bed 3hrs later. The bath has a shower attachment which wasn’t sufficient to shower with, and again- even a quick wash with this the water won’t drain. Also, the plug is black with mould which is really unpleasant and there is a lot of black mould and general dirt around the bathroom which wasn’t pleasant. On reviewing our booking it didn’t say this was a shower in this room, this was my mistake but took this as a given and it’s hard to tell which photos belong to each room on the advert. On reading reviews whilst we were there it seems drainage has been an issue for a long time?! \n\nBreakfast- advertised as included. Not sufficient and in a shared kitchen, some bread and yogurt. People are encouraged to buy fresh pastries next door. There is no detail around breakfast on the booking so it’s disappointing it’s self serve and very limited for the price we paid. \n\nThe courtyard terrace doesn’t exist- this is an alleyway with bins to reach the property. \n\nThere are no facilities in room for tea, coffee, water etc \nThis was an issue for me as I don’t want to get fully dressed first thing to go down 3 flights of stairs for a coffee- this combined with the issue of not being able to have a shower was irritating. \n\nThe room isn’t adequately equipped, we were staying for 3 nights so aside from lack of coffee and showering- there wasn’t a mirror in the room (only in bathroom) which was a hassle when blow drying hair, make up etc though won’t be an issue for everyone. Couldn’t hang clothes up, no rail or wardrobe yet so much space. \n\nRude owners- I asked if there was availability to move to room with a shower, polite request- I wasn’t rude or critical! Received a response to say nothing was wrong with my room and was very dismissive :(",
+        "rating": 6.0,
+        "source": "Booking.com",
+        "page": 6
+    },
+    {
+        "customer_name": "Liz",
+        "stay_date": "Ekim 2023",
+        "review": "Olumlu: The beautiful view of course and the location was perfect.\nOlumsuz: Only the stairs, but it was well worth it for the view",
+        "rating": 10.0,
+        "source": "Booking.com",
+        "page": 6
+    },
+    {
+        "customer_name": "Johann",
+        "stay_date": "Eylül 2023",
+        "review": "Olumlu: The hosts were very responsive and friendly. The position in the heart of Montmartre is excellent. Everything is nearby within walking distance. Views on the church from the apartment is wonderfull. The fridge and kitchen area was stocked with food for breakfast and a coffee machine with enough refills. Wish we could stay longer. Highly recommended place to stay.\nOlumsuz: The steps, but its not a dealbreaker.",
+        "rating": 10.0,
+        "source": "Booking.com",
+        "page": 6
+    },
+    {
+        "customer_name": "Terry",
+        "stay_date": "Eylül 2023",
+        "review": "Olumlu: Hosts were excellent and very quick to communicate and respond. Excellent location.\nOlumsuz:",
+        "rating": 10.0,
+        "source": "Booking.com",
+        "page": 6
+    },
+    {
+        "customer_name": "Beth",
+        "stay_date": "Ağustos 2023",
+        "review": "Olumlu: We had a fantastic stay at ADM. It is in a perfect location in the heart of Montmartre with a stunning view of the Sacre Coeur. We stayed in two different suites during our stay - the Picasso for the first night and the Dali Duplex for the second night. Both rooms were spacious, clean and comfortable and we couldn’t have asked for more! The shared kitchen on the ground floor was fully stocked with tea, coffee and breakfast. I have been to Paris many times, and this was without doubt the best place I have stayed. The hosts were also super helpful and friendly and I would absolutely recommend staying there to anyone visiting Paris!\nOlumsuz: The only thing that would have improved our stay would be if there were tea and coffee facilities in the suites, but otherwise it was perfect!",
+        "rating": 10.0,
+        "source": "Booking.com",
+        "page": 7
+    },
+    {
+        "customer_name": "Thomas",
+        "stay_date": "Ağustos 2023",
+        "review": "Olumlu: Great room in a very central location!\nOlumsuz:",
+        "rating": 10.0,
+        "source": "Booking.com",
+        "page": 7
+    },
+    {
+        "customer_name": "Katherine",
+        "stay_date": "Temmuz 2023",
+        "review": "Olumlu: The location is unbeatable. And for such an outstanding and busy area, it was nice and quiet in the evening! Directions were easy and recommendations that were shared ahead of time were very much welcomed!\nOlumsuz: The drain in the shower was not working properly, but it did not detract from a lovely night.",
+        "rating": 10.0,
+        "source": "Booking.com",
+        "page": 7
+    },
+    {
+        "customer_name": "Olesia",
+        "stay_date": "Mayıs 2023",
+        "review": "Olumlu: The location is superb! It's literally just 10 meters away from Sacré-Cœur Basilica. The apartment has a stunning view of it which gives an unforgettable experience of living in the centre of history and cultural life. The apartment is spacious and has everything needed. The bed is very comfy.\nThe hosts were gracious and thoughtful. They provided us with detailed instructions about the access to the apartment and offered excellent recommendations of cafés and restaurants nearby.\nOlumsuz: There was renovation done in the house next door at the time of our stay. It was quite loud but totally something that was beyond hosts' control.",
+        "rating": 10.0,
+        "source": "Booking.com",
+        "page": 7
+    },
+    {
+        "customer_name": "Charunethran",
+        "stay_date": "Nisan 2023",
+        "review": "Olumlu: The location was unbeatable, just seconds away from the vibrant artists' square (Place du Tertre) and the breathtaking Sacré-Cœur. The only minor consideration would be the narrow stairs to the top floors, which might require some caution or assistance with luggage, but that didn't diminish the overall amazing experience. Not only did our room offer a breathtaking view of the Sacré-Cœur Basilica from the window, but it was also surprisingly peaceful despite being located on a bustling street. The manager was incredibly responsive and accommodating, allowing us to store our luggage in the common area after check-out.\nOlumsuz: The trade-off for being in this part of Montmartre is that you need to walk ~10 minutes to the nearby Metro station. Not a huge issue, but something to consider if you are in a hurry.",
+        "rating": 10.0,
+        "source": "Booking.com",
+        "page": 7
+    },
+    {
+        "customer_name": "Eirini",
+        "stay_date": "Nisan 2023",
+        "review": "Olumlu: outstanding view, great bed, large room (3rd floor), beautiful and modern decoration, romantic attic, always hot water for the tab bathroom\nOlumsuz: very few choices for breakfast",
+        "rating": 10.0,
+        "source": "Booking.com",
+        "page": 7
+    },
+    {
+        "customer_name": "Samantha",
+        "stay_date": "Ocak 2023",
+        "review": "Olumlu: location is amazing! view of Sacre Couer from your window and close to lots of lovely bars and restaurants.\nOlumsuz:",
+        "rating": 10.0,
+        "source": "Booking.com",
+        "page": 7
+    },
+    {
+        "customer_name": "Anca",
+        "stay_date": "Aralık 2022",
+        "review": "Olumlu: Location and view from the room.\nOlumsuz: Breakfast in the fridge, cheese and yoghurt mostly. \nBathroom was not clean, hair from the previous tourists on the Bath tub, garbage still in the recipient. \nBed not comfortable too hard, same for pillows. \nWater not hot enough. \nIn the bedroom there was still garbage on the floor.",
+        "rating": 5.0,
+        "source": "Booking.com",
+        "page": 7
+    },
+    {
+        "customer_name": "Thomas",
+        "stay_date": "Ekim 2022",
+        "review": "Olumlu: This room and location was perfect for a visit to Paris. At the top of Montmartre and with a view of Scare Cour, this property was amazing. It was among the highlights of the trip. Take the bus up and down the hill for easiest transportation. It stops right down the street from this hotel. If you want a real French experience, this is it. The room was bigger than we thought it would be, and the decor was charming.\nWe never met the main property owners, but they were very communicative via text and online. They even offered suggestions for restaurants and transportation. \nRenting the Lime bikes are the best way to get around Paris. If you take the bus to the bottom of the hill, you can get bikes there or a short Metro ride towards your destination, then rent the bikes. \nThe first night had a beautiful bike ride along the Siene on the way to the Eiffel Tower.\nOlumsuz: The only issue was that the main gate and the front door to the property was not locked and could easily be pushed open. It seemed there was construction going on at that front gate and the locking mechanism was being replaced. The shower didn't seem to have hot water, but it was strong and the bathroom very clean.",
+        "rating": 10.0,
+        "source": "Booking.com",
+        "page": 7
+    },
+    {
+        "customer_name": "Meghan",
+        "stay_date": "Ekim 2022",
+        "review": "Olumlu: Very well located next to Sacre Coeur. Hosts very responsive and helpful by text.\nOlumsuz: The room was much shabbier than pictured online and much less bright and welcoming. Needs some deep cleaning around the edges, especially in the bathroom in particular around the shower edges. No bathroom ventilation and walls need a good cleaning. bathroom tiny and shower awkward to get in and out of. a wooden shower products holder is never a good idea due to mold, and was quite unpleasant. difficult to feel clean after using this bathroom. bed was a double, not a king as advertised or even a queen. Entrance through a narrow alley with garbage cans, not set up as a nice courtyard as pictured. Street door broken. Breakfast not fresh pastries as pictured. no fresh food at all. individually packaged cheese, yogurt, storebought bread, cereal, tea/coffee, juice left in kitchen to self serve. self serve is fine but could at least make some fruit, fresh bread and pastries available. did not feel it was good value for money overall.",
+        "rating": 6.0,
+        "source": "Booking.com",
+        "page": 7
+    },
+    {
+        "customer_name": "Del",
+        "stay_date": "Eylül 2022",
+        "review": "Olumlu: It was stylish, quirky and right at the centre of Montmartre. Beds were comfortable, shower was great. Absolutely nothing to complain about.\nOlumsuz: nothing I can think of although the location is a seriously uphill walk from the nearest Metro.",
+        "rating": 10.0,
+        "source": "Booking.com",
+        "page": 8
+    },
+    {
+        "customer_name": "Libby",
+        "stay_date": "Temmuz 2022",
+        "review": "Olumlu: GREAT location - literally right next to Sacre Coeur\nOlumsuz: nothing - was an older building with steep stairs as expected",
+        "rating": 10.0,
+        "source": "Booking.com",
+        "page": 8
+    },
+    {
+        "customer_name": "Mark",
+        "stay_date": "Temmuz 2022",
+        "review": "Olumlu: it’s a lovely quiet secluded place right in the thick of it! unbeatable really\nOlumsuz: nothing really",
+        "rating": 10.0,
+        "source": "Booking.com",
+        "page": 8
+    },
+    {
+        "customer_name": "Michelle",
+        "stay_date": "Haziran 2022",
+        "review": "Olumlu: We enjoyed our stay and will be certain to pass along this gem to friends and family visiting Paris. The location cannot be beat - in the heart of Montmartre! Although the apartment was in the midst of the bustling neighbourhood, the room was quiet and private. Communication was excellent and the hosts lovely and accommodating. What a fabulous way to end our time in Paris. Merci!!\nOlumsuz:",
+        "rating": 10.0,
+        "source": "Booking.com",
+        "page": 8
+    },
+    {
+        "customer_name": "Gabriele",
+        "stay_date": "Haziran 2022",
+        "review": "Olumlu: host was very helpful, we had morning flight and it was no problem to check earlier :) the place is in the hard of monmartre and we could hear the bells of wonderful church next to apartment. Many cafes and restaurants around. Apartment has nice interior and very clean. there are kitchen were you could prepare proper breakfast :)\nOlumsuz:",
+        "rating": 10.0,
+        "source": "Booking.com",
+        "page": 8
+    },
+    {
+        "customer_name": "Jodi",
+        "stay_date": "Haziran 2022",
+        "review": "Olumlu: It was a perfect hotel in my favorite part of Paris! I can’t wait to stay again!\nOlumsuz:",
+        "rating": 10.0,
+        "source": "Booking.com",
+        "page": 8
+    },
+    {
+        "customer_name": "Aivaras",
+        "stay_date": "Eylül 2024",
+        "review": "Olumlu: The property looks much better in pictures then in real life. Needs refurbishment. Wifi not working. Heating not working no instructions how to switch heater on. Advertised as with breakfast but actually there was not even fresh bread! Not talking about croissants. Had to go out to cafe. In fridge there was old pate with mould on it - disgusting! I felt like no one cares about the property and its just a money making machine. Not clean either, there was some black hair in shower area…\nOlumsuz:",
+        "rating": 3.0,
+        "source": "Booking.com",
+        "page": 8
+    },
+    {
+        "customer_name": "Jas",
+        "stay_date": "Ekim 2022",
+        "review": "Olumlu: Although it was located in a nice area, the hotel itself had a lot of issues which could be unsafe for travelers.\nOlumsuz: We had some major issues here.\n\nUpon arriving, our taxi could not reach the hotel due to some closed streets, so we had to walk about 15 minutes in the middle of the night with our luggage. Since the streets were closed, we had to beg the security guards to allow us through. Not the hotel's fault, but something to note - if I had been traveling alone, I would have felt pretty uncomfortable walking the streets by myself at night with all of my things.\n\nThe worst part though, was that in the morning (which was our first day in Paris), my partner left for a run. He took the key, as there was only one provided, and locked the door on his way out. I was in the shower. When he returned, he was not able to get inside the main door to access the stairway to our room - the key code was not working at all. He called me to come down, but since he had locked the door on the way out, I was locked inside the room. There is no way to get out of the room if someone locks it behind them. So my partner was stuck outside and I was stuck inside. I promptly texted the hotel but they did not respond, so I called. The man answered and told me it was \"impossible\" that the code wasn't working. My partner continued to try and eventually FaceTimed the hotel owner to show him that the code was not working.\n\nThe host was extremely unhelpful and rude, but told us he would send someone to help. No one was on site or nearby, so we spent hours of our first day in Paris trapped at this hotel.\n\nI was on the 3rd floor, so we decided to try tossing the keys through the window as a last ditch effort since the owner was no longer answering our texts or calls and we were beginning to think that we would be stuck there all day. Unfortunately the keys went over the ledge (whoops), and when I told the owner this, he scolded me for losing the keys rather than apologizing.\n\nEventually someone arrived and literally had to kick the front door down.",
+        "rating": 1.0,
+        "source": "Booking.com",
+        "page": 8
+    },
+    {
+        "customer_name": "Kristina",
+        "stay_date": "Ağustos 2023",
+        "review": "Olumlu: Absolutely nothing. If I could rate my experience, I'd give this a -10\nOlumsuz: Their shower drain didnt work & water overflowed into the bath/bed areas. I had to wipe up the water with the comforter (that was all they had). Did they expect me to leave the water on their hardwood floors for hours??\nI contacted the owner as soon as this happened at 7:30am (via phone, email, text & booking.com). They didnt get back to me about THEIR problem for hours & only after booking.com reached out to them.\nThey seemed to understand what happened & said they'd send a plumber and another comforter, but the cleaning lady came instead (at 1pm). My 16yo daughter & I had an excursion at 2:15pm at the Louvre (that I already paid) & I didnt know if the owner was going to be able to repair the issue/if we were going to be able to shower or if we needed a new hotel....this was very stressful especially because we only had 30 minutes to find a new hotel/drag all of our luggage to the new hotel, on the way to the Louvre (if needed).\nThe cleaning lady obviously didnt understand/care about what happened. She was yelling rude things at us (about how I shouldnt have wiped up the floors- really?! and how annoying tourists are) & pushed/shoved me! After that, I received text messages from the owner telling my daughter & I to leave.\nI paid $655 for 3 nights & we'd been at the B&B less than a day. \nThis was THEIR issue & they asked US to leave! \nAt a minimum, they should've apologized for their problem, thanked me for cleaning/staying at their B&B, not yelled/shoved me and fixed their drain! \nIts been 2 weeks & they still havent refunded me....I also had to pay for another 2 nights at a different hotel!\nSo much of my time/money/energy wasted on this. \nI have a lot more to say about this experience but there isnt enough room to add the verbiage...",
+        "rating": 1.0,
+        "source": "Booking.com",
+        "page": 8
+    },
+    {
+        "customer_name": "İsimsiz",
+        "stay_date": "Mayıs 2023",
+        "review": "Olumlu: easy access, good bed, shower and quiet.\nOlumsuz: location was excellent",
+        "rating": 8.0,
+        "source": "Booking.com",
+        "page": 8
     }
 ]

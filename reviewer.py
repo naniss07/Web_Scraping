@@ -44,16 +44,26 @@ booking_pages = st.number_input("Number of pages to scrape from Booking.com",
 def initialize_driver():
     try:
         st.write("Initializing WebDriver...")
+        
+        # Tarayıcı sürümünü alalım
+        from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
+        chrome_version = webdriver.Chrome(desired_capabilities=DesiredCapabilities.CHROME).capabilities['browserVersion']
+
+        st.write(f"Chrome version detected: {chrome_version}")
+        
+        # WebDriver'ı doğru sürümle yükleyelim
         options = ChromeOptions()
         options.add_argument("--headless")
         options.add_argument("--disable-gpu")
         options.add_argument("--no-sandbox")
-        options.add_argument(
-            "user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
-        )
-        driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()), options=options)
+        options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36")
+
+        # ChromeDriver'ın doğru sürümünü seçmek
+        driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager(version=chrome_version).install()), options=options)
+        
         st.write("Chrome WebDriver initialized.")
         return driver
+
     except Exception as e:
         st.error(f"Error initializing WebDriver: {e}")
         return None
