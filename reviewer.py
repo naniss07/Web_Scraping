@@ -16,7 +16,6 @@ from selenium.common.exceptions import StaleElementReferenceException
 from dataclasses import dataclass
 from datetime import datetime
 import re
-import subprocess
 
 @dataclass
 class StandardizedReview:
@@ -42,40 +41,21 @@ booking_pages = st.number_input("Number of pages to scrape from Booking.com",
                               value=5, 
                               help="Enter the number of pages you want to scrape from Booking.com (1-20)")
 
-def get_chrome_version():
-    try:
-        # Tarayıcı sürümünü almak için işletim sistemi komutlarını kullanalım
-        version_output = subprocess.check_output(["google-chrome", "--version"], universal_newlines=True)
-        # Çıktıyı analiz ederek sadece sürüm numarasını al
-        chrome_version = version_output.split(" ")[2].strip()
-        return chrome_version
-    except Exception as e:
-        return None
-
 def initialize_driver():
     try:
         st.write("Initializing WebDriver...")
-
-        chrome_version = get_chrome_version()
-        if chrome_version is None:
-            st.error("Chrome version could not be detected.")
-            return None
-
-        st.write(f"Chrome version detected: {chrome_version}")
-        
-        # WebDriver'ı doğru sürümle yükleyelim
         options = ChromeOptions()
         options.add_argument("--headless")
         options.add_argument("--disable-gpu")
         options.add_argument("--no-sandbox")
         options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36")
-        
-        # Tarayıcı sürümüne göre doğru ChromeDriver sürümünü yüklemek
-        driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager(version=chrome_version).install()), options=options)
 
+        # Specify the version of ChromeDriver directly based on your Chrome version (example version)
+        driver = webdriver.Chrome(
+            service=ChromeService(ChromeDriverManager(version="120.0.6099.224").install()), options=options
+        )
         st.write("Chrome WebDriver initialized.")
         return driver
-
     except Exception as e:
         st.error(f"Error initializing WebDriver: {e}")
         return None
