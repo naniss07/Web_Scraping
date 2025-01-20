@@ -37,9 +37,9 @@ webhook_url = st.text_input("Webhook URL", placeholder="Enter webhook URL for se
 # Booking.com için sayfa sayısı input'u
 booking_pages = st.number_input("Number of pages to scrape from Booking.com", 
                               min_value=1, 
-                              max_value=20, 
+                              max_value=100, 
                               value=5, 
-                              help="Enter the number of pages you want to scrape from Booking.com (1-20)")
+                              help="Enter the number of pages you want to scrape from Booking.com (1-100)")
 
 def initialize_driver():
     try:
